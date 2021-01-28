@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1611670759 source:d:\itt\semester 1\algoritma pemrograman\formkurir_consoleapp\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+
